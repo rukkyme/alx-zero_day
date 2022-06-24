@@ -1,1 +1,1 @@
-new directory readme
+ my coding fury readme
